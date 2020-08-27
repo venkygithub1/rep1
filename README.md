@@ -1,2 +1,1 @@
-# rep1
-my first comment
+first repository
